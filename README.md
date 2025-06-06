@@ -1,2 +1,6 @@
-# engemil_pmw3901mb_hardware
+# EngEmil PMW3901MB Hardware
+
 PMW3901MB PCB designed with KiCAD
+
+
+Status: **WORK-IN-PROGRESS**
