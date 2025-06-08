@@ -2,8 +2,15 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid 4b3d6c6d-c090-43d6-aef4-73c7c564178d)
+	(uuid "4b3d6c6d-c090-43d6-aef4-73c7c564178d")
 	(paper "A4")
+	(title_block
+		(title "EngEmil PMW3901MB Module")
+		(date "2025-06-07")
+		(rev "1")
+		(company "EngEmil")
+		(comment 1 "Licensed under CERN-OHL-W-2.0")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
