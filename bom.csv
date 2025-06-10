@@ -1,12 +1,12 @@
 Item #,Quantity,Manufacturer Part #,Description,Reference Designators,Optional?,Mounting Type,Package/Footprint,Manufacturer,Manufacturer Part Page,Note,Vendor #1,Vendor #2,Vendor #3
-1,1,TLV77318PDBVR,Fixed 1.8V voltage regulator,U3,,SMD,SOT-23-5 (DBV),Texas Instrument,https://www.ti.com/product/TLV773/part-details/TLV77318PDBVR,none,https://www.digikey.no/no/products/detail/texas-instruments/tlv77318pdbvr/23331424,https://no.mouser.com/ProductDetail/Texas-Instruments/TLV77318PDBVR?qs=i8QVZAFTkqTJuDP4u6TAYQ%3D%3D,https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_Texas-Instruments-TLV77318PDBVR_C32339535.html?s_z=n_TLV77318PDBVR
-2,1,TLV77333PDBVR,Fixed 3.3V voltage regulator,U2,,SMD,SOT-23-5 (DBV),Texas Instrument,https://www.ti.com/product/TLV773/part-details/TLV77333PDBVR,none,https://www.digikey.no/no/products/detail/texas-instruments/TLV77333PDBVR/23331458,https://no.mouser.com/ProductDetail/Texas-Instruments/TLV77333PDBVR?qs=i8QVZAFTkqReVjswJP1RYw%3D%3D,https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_Texas-Instruments-TLV77333PDBVR_C32445874.html
-3,4,C0805C105J4RECAUTO7210,1uF 16VDC 5% ceramic non-polarity capacitor,"C1,C2,C3,C4",,SMD,0805,KEMET,,none,https://no.mouser.com/ProductDetail/KEMET/C0805C105J4RECAUTO7210?qs=55YtniHzbhDbyzfJO59W6Q%3D%3D#,,
-4,1,61300811121,2.54mm pitch 8 pins male through-hole headers,J1,,Through-hole,,Würth Elektronik,,none,https://www.digikey.no/en/products/detail/w%C3%BCrth-elektronik/61300811121/4846839,,
-5,1,PMW3901MB-TXQT,Optical Motion Tracing Chip,U1,,SMD,28-pin QFN,Pixart,https://www.pixart.com/products-detail/44/PMW3901MB-TXQT,none,(Alibaba),,
-6,1,,3 Ohm resistor,,,SMD,0805,,,,,,
-7,1,,10k Ohm resistor,,,SMD,0805,,,,,,
-8,2,,22uF ceramic non-polarity capacitor,,,SMD,0805,,,,,,
-9,3,,100nF ceramic non-polarity capacitor,,,SMD,0805,,,,,,
-10,1,,10uF ceramic non-polarity capacitor,,,SMD,0805,,,,,,
-11,1,,4.7uF ceramic non-polarity capacitor,,,SMD,0805,,,,,,
+1,1,TLV77318PDBVR,Fixed 1.8V voltage regulator,U3,,SMD,SOT-23-5 (DBV),Texas Instrument,https://www.ti.com/product/TLV773/part-details/TLV77318PDBVR,,https://www.digikey.no/no/products/detail/texas-instruments/tlv77318pdbvr/23331424,https://no.mouser.com/ProductDetail/Texas-Instruments/TLV77318PDBVR?qs=i8QVZAFTkqTJuDP4u6TAYQ%3D%3D,https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_Texas-Instruments-TLV77318PDBVR_C32339535.html?s_z=n_TLV77318PDBVR
+2,1,TLV77333PDBVR,Fixed 3.3V voltage regulator,U2,,SMD,SOT-23-5 (DBV),Texas Instrument,https://www.ti.com/product/TLV773/part-details/TLV77333PDBVR,,https://www.digikey.no/no/products/detail/texas-instruments/TLV77333PDBVR/23331458,https://no.mouser.com/ProductDetail/Texas-Instruments/TLV77333PDBVR?qs=i8QVZAFTkqReVjswJP1RYw%3D%3D,https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_Texas-Instruments-TLV77333PDBVR_C32445874.html
+3,4,C0805C105J4RECAUTO7210,1uF 16VDC 5% ceramic non-polarity capacitor,"C1,C2,C3,C4",,SMD,0805 in,YAGEO KEMET,,,https://no.mouser.com/ProductDetail/KEMET/C0805C105J4RECAUTO7210?qs=55YtniHzbhDbyzfJO59W6Q%3D%3D#,,
+4,1,61300811121,2.54mm pitch 8 pins male through-hole headers,J1,,Through-hole,,Würth Elektronik,,,https://www.digikey.no/en/products/detail/w%C3%BCrth-elektronik/61300811121/4846839,,
+5,1,PMW3901MB-TXQT,Optical Motion Tracing Chip,U1,,SMD,28-pin QFN,Pixart,https://www.pixart.com/products-detail/44/PMW3901MB-TXQT,,(Alibaba),,
+6,1,,3 Ohm 2W resistor,,,SMD,0805 in,,,optional,,,
+7,1,RE0805FRE0710KL,10k Ohm resistor,,,SMD,0805 in,YAGEO,,,https://no.mouser.com/ProductDetail/YAGEO/RE0805FRE0710KL?qs=sGAEpiMZZMvdGkrng054t8Pyfa06IR6dwI4q%252B328UC0Fr0ZF2sCOtg%3D%3D,,
+8,2,C0805C226M9PAC7210,22uF ceramic non-polarity capacitor,,,SMD,0805 in,YAGEO KEMET,,,https://no.mouser.com/ProductDetail/KEMET/C0805C226M9PAC7210?qs=kSrfU%2F8XGbk4aYGfk4dTXw%3D%3D,,
+9,3, C0805C104JMRECAUTO7210 ,100n/0.1uF ceramic non-polarity capacitor,,,SMD,0805 in,YAGEO KEMET,,,https://no.mouser.com/ProductDetail/KEMET/C0805C104JMRECAUTO7210?qs=55YtniHzbhCWsM9aesOnTg%3D%3D,,
+10,1,C0805C106K4PAC7210,10uF ceramic non-polarity capacitor,,,SMD,0805 in,YAGEO KEMET,,,https://no.mouser.com/ProductDetail/KEMET/C0805C106K4PAC7210?qs=zDkSFN9STR9jrJZBgSwCDA%3D%3D,,
+11,1,C0805C475K4RACAUTO7210,4.7uF ceramic non-polarity capacitor,,,SMD,0805 in,YAGEO KEMET,,,https://no.mouser.com/ProductDetail/KEMET/C0805C475K4RACAUTO7210?qs=HXFqYaX1Q2xkgxFv524wgg%3D%3D,,
