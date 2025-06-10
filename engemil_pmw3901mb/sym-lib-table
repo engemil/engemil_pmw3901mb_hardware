@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "engemil_pmw3901mb_module_symbol_library")(type "KiCad")(uri "/home/engemil/Downloads/engemil_pmw3901mb_hardware/lib/symbols/engemil_pmw3901mb_module_symbol_library.kicad_sym")(options "")(descr ""))
+  (lib (name "engemil_pmw3901mb_module_symbol_library")(type "KiCad")(uri "${KIPRJMOD}/../lib/symbols/engemil_pmw3901mb_module_symbol_library.kicad_sym")(options "")(descr ""))
 )

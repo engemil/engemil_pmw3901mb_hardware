@@ -408,6 +408,198 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "engemil_pmw3901mb_module_symbol_library:C0805C104JMRECAUTO7210"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 8.89 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "C0805C104JMRECAUTO7210"
+				(at 8.89 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "CAPC2012X110N"
+				(at 8.89 -96.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C104JMRECAUTO7210"
+				(at 8.89 -196.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "C0805C104JMRECAUTO7210"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.1"
+				(at 8.89 -396.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "80-C0805C104JMREAULR"
+				(at 8.89 -496.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104JMRECAUTO7210?qs=55YtniHzbhCWsM9aesOnTg%3D%3D"
+				(at 8.89 -596.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "KEMET"
+				(at 8.89 -696.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "C0805C104JMRECAUTO7210"
+				(at 8.89 -796.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "C0805C104JMRECAUTO7210_1_1"
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 5.588 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.588 2.54) (xy 5.588 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.112 2.54) (xy 7.112 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.112 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 0 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "engemil_pmw3901mb_module_symbol_library:C0805C105J4RECAUTO7210"
 			(pin_names
 				(hide yes)
@@ -600,6 +792,582 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "engemil_pmw3901mb_module_symbol_library:C0805C106K4PAC7210"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 8.89 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "C0805C106K4PAC7210"
+				(at 8.89 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "C0805"
+				(at 8.89 -96.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
+				(at 8.89 -196.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "SMD Comm X5R, Ceramic, 10 uF, 10%, 16 VDC, 40 VDC, 85C, -55C, X5R, SMD, MLCC, Temperature Stable, Class II, 10 % , 10 MOhms, 21 mg, 0805, 2mm, 1.25mm, 1.25mm, 0.75mm, 0.5mm, 10000, 78  Weeks, 70"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.1"
+				(at 8.89 -396.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "80-C0805C106K4P7210"
+				(at 8.89 -496.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C106K4PAC7210?qs=zDkSFN9STR9jrJZBgSwCDA%3D%3D"
+				(at 8.89 -596.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "KEMET"
+				(at 8.89 -696.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "C0805C106K4PAC7210"
+				(at 8.89 -796.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "C0805C106K4PAC7210_1_1"
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 5.588 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.588 2.54) (xy 5.588 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.112 2.54) (xy 7.112 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.112 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 0 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "engemil_pmw3901mb_module_symbol_library:C0805C226M9PAC7210"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 8.89 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "C0805C226M9PAC7210"
+				(at 8.89 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "C0805"
+				(at 8.89 -96.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
+				(at 8.89 -196.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "SMD Comm X5R, Ceramic, 22 uF, 20%, 6.3 VDC, 15.75 VDC, 85C, -55C, X5R, SMD, MLCC, Temperature Stable, Class II, 10 % , 4.5 MOhms, 21 mg, 0805, 2mm, 1.25mm, 1.25mm, 0.75mm, 0.5mm, 10000, 78  Weeks, 70"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.1"
+				(at 8.89 -396.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "80-C0805C226M9PACLR"
+				(at 8.89 -496.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C226M9PAC7210?qs=kSrfU%2F8XGbk4aYGfk4dTXw%3D%3D"
+				(at 8.89 -596.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "KEMET"
+				(at 8.89 -696.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "C0805C226M9PAC7210"
+				(at 8.89 -796.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "C0805C226M9PAC7210_1_1"
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 5.588 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.588 2.54) (xy 5.588 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.112 2.54) (xy 7.112 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.112 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 0 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "engemil_pmw3901mb_module_symbol_library:C0805C475K4RACAUTO7210"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 8.89 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "C0805C475K4RACAUTO7210"
+				(at 8.89 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "C0805"
+				(at 8.89 -96.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1023_X7R_AUTO_SMD.pdf"
+				(at 8.89 -196.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "SMD Auto X7R, Ceramic, 4.7 uF, 10%, 16 VDC, 40 VDC, 125C, -55C, X7R, SMD, MLCC, Temperature Stable, Automotive Grade, 10 % , 21.3 MOhms, 21 mg, 0805, 2mm, 1.25mm, 1.25mm, 0.75mm, 0.5mm, 10000, 78  Weeks, 80"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.1"
+				(at 8.89 -396.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "80-C0805C475K4RAUTLR"
+				(at 8.89 -496.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C475K4RACAUTO7210?qs=HXFqYaX1Q2xkgxFv524wgg%3D%3D"
+				(at 8.89 -596.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "KEMET"
+				(at 8.89 -696.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "C0805C475K4RACAUTO7210"
+				(at 8.89 -796.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "C0805C475K4RACAUTO7210_1_1"
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 5.588 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.588 2.54) (xy 5.588 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.112 2.54) (xy 7.112 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.112 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 0 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "engemil_pmw3901mb_module_symbol_library:PMW3901MB-TXQT"
 			(pin_names
 				(offset 0.254)
@@ -607,7 +1375,7 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U1"
+			(property "Reference" "U"
 				(at 25.4 10.16 0)
 				(effects
 					(font
@@ -1151,6 +1919,24 @@
 						)
 					)
 				)
+				(pin no_connect line
+					(at 50.8 -25.4 180)
+					(length 7.62)
+					(name "NCS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin unspecified line
 					(at 50.8 -27.94 180)
 					(length 7.62)
@@ -1225,17 +2011,165 @@
 				)
 			)
 			(symbol "PMW3901MB-TXQT_1_1"
-				(pin unspecified line
-					(at 50.8 -25.4 180)
-					(length 7.62)
-					(name "NCS"
+				(rectangle
+					(start 7.62 5.08)
+					(end 43.18 -40.64)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "engemil_pmw3901mb_module_symbol_library:RE0805FRE0710KL"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 13.97 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "RE0805FRE0710KL"
+				(at 13.97 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "RESC2012X60N"
+				(at 13.97 -96.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-re_105_rohs_l.pdf"
+				(at 13.97 -196.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0.254 -3.302 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "0.6"
+				(at 13.97 -396.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "603-RE0805FRE0710KL"
+				(at 13.97 -496.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RE0805FRE0710KL?qs=HEu%2FF%2FCqxzLXGIUQzS%252BC%252BA%3D%3D"
+				(at 13.97 -596.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "YAGEO"
+				(at 13.97 -696.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "RE0805FRE0710KL"
+				(at 13.97 -796.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "RE0805FRE0710KL_1_1"
+				(rectangle
+					(start 5.08 1.27)
+					(end 12.7 -1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "19"
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 17.78 0 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1464,6 +2398,19 @@
 					)
 				)
 			)
+			(symbol "TLV77318PDBVR_1_1"
+				(rectangle
+					(start 5.08 5.08)
+					(end 27.94 -12.7)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
 			(embedded_fonts no)
 		)
 		(symbol "engemil_pmw3901mb_module_symbol_library:TLV77333PDBVR"
@@ -1681,6 +2628,19 @@
 								(size 1.27 1.27)
 							)
 						)
+					)
+				)
+			)
+			(symbol "TLV77333PDBVR_1_1"
+				(rectangle
+					(start 5.08 5.08)
+					(end 27.94 -12.7)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
 					)
 				)
 			)
@@ -2164,8 +3124,8 @@
 		)
 	)
 	(rectangle
-		(start 20.32 20.32)
-		(end 106.68 74.93)
+		(start 182.88 16.51)
+		(end 269.24 71.12)
 		(stroke
 			(width 0)
 			(type dash)
@@ -2176,8 +3136,8 @@
 		(uuid 35305703-2319-40b2-b2b2-1bc8040b8941)
 	)
 	(rectangle
-		(start 111.76 20.32)
-		(end 196.85 74.93)
+		(start 182.88 73.66)
+		(end 269.24 128.27)
 		(stroke
 			(width 0)
 			(type dash)
@@ -2188,8 +3148,20 @@
 		(uuid a69b7eef-e6b3-4695-a1d9-9e0a86d287e0)
 	)
 	(rectangle
-		(start 213.36 102.87)
-		(end 250.19 149.86)
+		(start 17.78 16.51)
+		(end 176.53 128.27)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid ca46c715-cb64-48f4-90a4-6d668c140338)
+	)
+	(rectangle
+		(start 95.25 134.62)
+		(end 166.37 193.04)
 		(stroke
 			(width 0)
 			(type dash)
@@ -2201,7 +3173,7 @@
 	)
 	(text "8-pin Connector"
 		(exclude_from_sim no)
-		(at 222.25 104.648 0)
+		(at 104.394 136.652 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2209,9 +3181,19 @@
 		)
 		(uuid "1d599768-2ccd-42df-ad84-3fcdcb24d1d5")
 	)
+	(text "PMW3901MB"
+		(exclude_from_sim no)
+		(at 24.892 18.796 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "52e5c0c3-abe3-4cea-9444-368938a836f5")
+	)
 	(text "3V3 Regulator"
 		(exclude_from_sim no)
-		(at 27.686 22.352 0)
+		(at 190.246 18.542 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2221,7 +3203,7 @@
 	)
 	(text "1V8 Regulator"
 		(exclude_from_sim no)
-		(at 119.634 22.606 0)
+		(at 190.754 75.946 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2231,7 +3213,7 @@
 	)
 	(text "VCC/VIN range 1.4V-5.5V"
 		(exclude_from_sim no)
-		(at 33.528 24.638 0)
+		(at 196.088 20.828 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2240,170 +3222,242 @@
 		(uuid "fdb4332c-89e2-404f-a7b4-01088453d69e")
 	)
 	(junction
-		(at 76.2 142.24)
+		(at 101.6 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "07c322e9-1c65-4170-abde-3d33505b2d25")
 	)
 	(junction
-		(at 134.62 62.23)
+		(at 205.74 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0add408c-c44b-462f-bbd2-9a12735cef71")
 	)
 	(junction
-		(at 87.63 62.23)
+		(at 250.19 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0fe35566-9141-4260-bda9-00308ac3bda0")
 	)
 	(junction
-		(at 137.16 139.7)
+		(at 162.56 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "106eed5f-16e4-4311-bed5-583790e725b9")
 	)
 	(junction
-		(at 177.8 62.23)
+		(at 248.92 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1e6553a4-88a7-4d53-9ee9-6e7149c576cd")
 	)
 	(junction
-		(at 134.62 39.37)
+		(at 24.13 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "244b414d-5279-4a59-9837-49ab285b0655")
+	)
+	(junction
+		(at 205.74 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3a26c2e1-1bef-4965-8015-5d6184b8a742")
 	)
 	(junction
-		(at 76.2 149.86)
+		(at 101.6 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3fc36b33-cae7-4aca-834f-2f55ecb995ba")
 	)
 	(junction
-		(at 76.2 139.7)
+		(at 58.42 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "45e6517e-57be-4da9-8676-77c7535ef8fd")
+	)
+	(junction
+		(at 101.6 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "48d0ebe7-bed9-4846-a351-3dc5e884ad9b")
 	)
 	(junction
-		(at 185.42 39.37)
+		(at 256.54 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4a636638-bc97-4d6a-93f3-77e2d9022ea6")
 	)
 	(junction
-		(at 95.25 62.23)
+		(at 38.1 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4ac85c0f-c053-42fa-8ecf-6d2291c4fdfb")
+	)
+	(junction
+		(at 257.81 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "52a6cab9-d12d-4a1e-af43-9025f1bace9a")
 	)
 	(junction
-		(at 185.42 62.23)
+		(at 256.54 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5ba3a396-51ac-4bb9-ad7d-cbfa8f7ff56e")
 	)
 	(junction
-		(at 137.16 124.46)
+		(at 162.56 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "616f1734-2fde-47ce-83f2-b2d5b9e0dcbd")
 	)
 	(junction
-		(at 95.25 39.37)
+		(at 257.81 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6fd85ccb-fc9b-4012-ad6c-b23002049381")
 	)
 	(junction
-		(at 121.92 39.37)
+		(at 120.65 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "73cd0e67-5b04-4f3f-ae68-33f0bdf1a100")
+	)
+	(junction
+		(at 193.04 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7a6fd1ec-e391-4848-b93c-e273db9c231f")
 	)
 	(junction
-		(at 31.75 39.37)
+		(at 194.31 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8b5b81ff-f5c4-4da1-b115-34b5fca4497b")
 	)
 	(junction
-		(at 35.56 132.08)
+		(at 82.55 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9097244a-cc30-4b18-8a32-3cb71eac79ca")
 	)
 	(junction
-		(at 137.16 134.62)
+		(at 162.56 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "95441da9-8b2c-4973-96a7-7313814ca741")
 	)
 	(junction
-		(at 76.2 147.32)
+		(at 101.6 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ac11c09c-98a8-456f-a244-7ec637728841")
 	)
 	(junction
-		(at 44.45 62.23)
+		(at 207.01 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b0a2e40c-8392-4484-8ed5-c05b7a3d5fcf")
 	)
 	(junction
-		(at 44.45 39.37)
+		(at 207.01 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b2efe20e-d28e-4156-83de-4cf1336ca943")
 	)
 	(junction
-		(at 76.2 144.78)
+		(at 101.6 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bbea25ae-4fc9-4e89-8add-fd2456ae53be")
 	)
 	(junction
-		(at 137.16 127)
+		(at 162.56 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c58f516d-c088-4e0c-8ab8-09eac30291ac")
 	)
 	(junction
-		(at 76.2 152.4)
+		(at 101.6 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c6c6fd24-abaa-429b-b60b-674a9b34e013")
 	)
 	(junction
-		(at 137.16 121.92)
+		(at 72.39 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cd250826-7a91-437d-b273-59e60b6e643e")
+	)
+	(junction
+		(at 162.56 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cd582830-2b20-457e-8227-361763c26245")
 	)
 	(junction
-		(at 137.16 129.54)
+		(at 162.56 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d3d91973-b7e4-4c43-b8f7-2c562417e87e")
 	)
 	(junction
-		(at 137.16 132.08)
+		(at 24.13 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "db6e0c24-974f-4966-9a2c-c452506d23f2")
+	)
+	(junction
+		(at 58.42 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dd31455a-28ce-4ef2-8a6a-9cd4166ca306")
+	)
+	(junction
+		(at 72.39 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e0416a14-97c8-4130-8320-fa361a805894")
+	)
+	(junction
+		(at 162.56 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e35a2060-53a7-4be4-accf-371ef6644a88")
+	)
+	(junction
+		(at 86.36 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e4092860-57cb-44e6-b74a-3c2bcd4cb3d4")
+	)
+	(junction
+		(at 24.13 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e4295920-56ba-4f4c-ad55-06a1e18d5dbd")
+	)
+	(junction
+		(at 162.56 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f09465db-6548-4013-9f34-e88885ba029c")
 	)
 	(junction
-		(at 137.16 137.16)
+		(at 162.56 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f1b42844-9285-4706-bde8-debc654e6f4e")
 	)
+	(junction
+		(at 38.1 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f81ce77f-a8f1-4da1-bed8-046551cd4903")
+	)
 	(wire
 		(pts
-			(xy 137.16 129.54) (xy 137.16 132.08)
+			(xy 162.56 80.01) (xy 162.56 82.55)
 		)
 		(stroke
 			(width 0)
@@ -2413,7 +3467,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 142.24) (xy 76.2 144.78)
+			(xy 101.6 92.71) (xy 101.6 95.25)
 		)
 		(stroke
 			(width 0)
@@ -2423,7 +3477,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 144.78) (xy 81.28 144.78)
+			(xy 101.6 95.25) (xy 106.68 95.25)
 		)
 		(stroke
 			(width 0)
@@ -2433,7 +3487,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 39.37) (xy 95.25 44.45)
+			(xy 257.81 35.56) (xy 257.81 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2443,7 +3497,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 127) (xy 137.16 129.54)
+			(xy 162.56 77.47) (xy 162.56 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2453,7 +3507,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 57.15) (xy 31.75 62.23)
+			(xy 194.31 53.34) (xy 194.31 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2463,7 +3517,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 62.23) (xy 121.92 57.15)
+			(xy 193.04 115.57) (xy 193.04 110.49)
 		)
 		(stroke
 			(width 0)
@@ -2473,7 +3527,17 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 33.02) (xy 31.75 39.37)
+			(xy 106.68 69.85) (xy 101.6 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0eb4c767-4e88-45c5-8ea2-5e96c53f313b")
+	)
+	(wire
+		(pts
+			(xy 194.31 29.21) (xy 194.31 35.56)
 		)
 		(stroke
 			(width 0)
@@ -2483,7 +3547,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 152.4) (xy 144.78 152.4)
+			(xy 157.48 102.87) (xy 162.56 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2493,7 +3557,27 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 49.53) (xy 44.45 62.23)
+			(xy 24.13 100.33) (xy 24.13 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "121b56bc-1c91-4062-9e59-3a540b75affe")
+	)
+	(wire
+		(pts
+			(xy 72.39 38.1) (xy 86.36 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1271c445-d622-477f-a369-f693f613ace9")
+	)
+	(wire
+		(pts
+			(xy 207.01 45.72) (xy 207.01 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2503,7 +3587,27 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 129.54) (xy 137.16 129.54)
+			(xy 38.1 77.47) (xy 24.13 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13c29ad8-5a1b-400d-9065-70a21388cddb")
+	)
+	(wire
+		(pts
+			(xy 101.6 52.07) (xy 162.56 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1591a254-4269-4452-b758-88ec8b03f628")
+	)
+	(wire
+		(pts
+			(xy 157.48 80.01) (xy 162.56 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2513,7 +3617,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 147.32) (xy 76.2 149.86)
+			(xy 101.6 97.79) (xy 101.6 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2523,7 +3627,17 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 124.46) (xy 137.16 127)
+			(xy 38.1 60.96) (xy 24.13 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c03e248-0373-47da-bc83-558e22261cc5")
+	)
+	(wire
+		(pts
+			(xy 162.56 74.93) (xy 162.56 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2533,7 +3647,17 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 149.86) (xy 81.28 149.86)
+			(xy 38.1 43.18) (xy 38.1 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1db8b51d-0c6d-41c1-9ff4-ce134c9c1731")
+	)
+	(wire
+		(pts
+			(xy 101.6 100.33) (xy 106.68 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2543,7 +3667,17 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 62.23) (xy 121.92 62.23)
+			(xy 58.42 38.1) (xy 58.42 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1eb84248-e4a6-4e25-92e8-88f47c9c3aef")
+	)
+	(wire
+		(pts
+			(xy 205.74 115.57) (xy 193.04 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2553,7 +3687,17 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 62.23) (xy 95.25 57.15)
+			(xy 58.42 31.75) (xy 58.42 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22e4442f-a049-4de2-b42e-b698316d249a")
+	)
+	(wire
+		(pts
+			(xy 257.81 58.42) (xy 257.81 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2563,17 +3707,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 121.92) (xy 81.28 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2316bf1c-6b2e-4c39-b7be-3b279d814f8c")
-	)
-	(wire
-		(pts
-			(xy 139.7 44.45) (xy 134.62 44.45)
+			(xy 210.82 97.79) (xy 205.74 97.79)
 		)
 		(stroke
 			(width 0)
@@ -2583,7 +3717,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 152.4) (xy 76.2 165.1)
+			(xy 101.6 102.87) (xy 101.6 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2593,7 +3727,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 137.16) (xy 137.16 137.16)
+			(xy 157.48 87.63) (xy 162.56 87.63)
 		)
 		(stroke
 			(width 0)
@@ -2603,7 +3737,17 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 137.16) (xy 76.2 139.7)
+			(xy 24.13 60.96) (xy 24.13 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "317946e6-6950-4f43-ac55-0ee4565d6120")
+	)
+	(wire
+		(pts
+			(xy 101.6 87.63) (xy 101.6 90.17)
 		)
 		(stroke
 			(width 0)
@@ -2613,7 +3757,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 39.37) (xy 95.25 39.37)
+			(xy 245.11 35.56) (xy 257.81 35.56)
 		)
 		(stroke
 			(width 0)
@@ -2623,7 +3767,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 154.94) (xy 144.78 154.94)
+			(xy 157.48 105.41) (xy 162.56 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2633,7 +3777,17 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 137.16) (xy 137.16 139.7)
+			(xy 50.8 74.93) (xy 106.68 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33f55ad5-0302-40c8-80ec-fc93e7561722")
+	)
+	(wire
+		(pts
+			(xy 162.56 87.63) (xy 162.56 90.17)
 		)
 		(stroke
 			(width 0)
@@ -2643,7 +3797,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 62.23) (xy 87.63 62.23)
+			(xy 207.01 58.42) (xy 250.19 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2653,7 +3807,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 121.92) (xy 137.16 121.92)
+			(xy 157.48 72.39) (xy 162.56 72.39)
 		)
 		(stroke
 			(width 0)
@@ -2663,7 +3817,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 124.46) (xy 137.16 124.46)
+			(xy 157.48 74.93) (xy 162.56 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2673,7 +3827,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 139.7) (xy 137.16 139.7)
+			(xy 157.48 90.17) (xy 162.56 90.17)
 		)
 		(stroke
 			(width 0)
@@ -2683,7 +3837,17 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 49.53) (xy 177.8 49.53)
+			(xy 50.8 38.1) (xy 50.8 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b54f0ba-1a57-4577-b79b-f8d2e843877e")
+	)
+	(wire
+		(pts
+			(xy 243.84 102.87) (xy 248.92 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2693,7 +3857,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 129.54) (xy 238.76 129.54)
+			(xy 149.86 172.72) (xy 154.94 172.72)
 		)
 		(stroke
 			(width 0)
@@ -2703,7 +3867,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 62.23) (xy 185.42 66.04)
+			(xy 256.54 115.57) (xy 256.54 119.38)
 		)
 		(stroke
 			(width 0)
@@ -2713,7 +3877,17 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 62.23) (xy 44.45 62.23)
+			(xy 38.1 77.47) (xy 38.1 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40eebfcf-79d8-4aca-9eac-e498b2210646")
+	)
+	(wire
+		(pts
+			(xy 194.31 58.42) (xy 207.01 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2723,7 +3897,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 149.86) (xy 76.2 152.4)
+			(xy 101.6 100.33) (xy 101.6 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2733,7 +3907,17 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 149.86) (xy 144.78 149.86)
+			(xy 58.42 38.1) (xy 72.39 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "426bada3-5c41-4323-84b8-89b95dec0072")
+	)
+	(wire
+		(pts
+			(xy 157.48 100.33) (xy 162.56 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2743,7 +3927,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 44.45) (xy 185.42 39.37)
+			(xy 256.54 97.79) (xy 256.54 92.71)
 		)
 		(stroke
 			(width 0)
@@ -2753,17 +3937,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 124.46) (xy 81.28 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "452c0450-45ee-43fd-a19c-28e71856ae35")
-	)
-	(wire
-		(pts
-			(xy 132.08 132.08) (xy 137.16 132.08)
+			(xy 157.48 82.55) (xy 162.56 82.55)
 		)
 		(stroke
 			(width 0)
@@ -2773,7 +3947,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 39.37) (xy 139.7 39.37)
+			(xy 205.74 92.71) (xy 210.82 92.71)
 		)
 		(stroke
 			(width 0)
@@ -2783,7 +3957,17 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 121.92) (xy 137.16 124.46)
+			(xy 72.39 60.96) (xy 58.42 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48b847b4-8a8d-4236-adf7-236992a7000d")
+	)
+	(wire
+		(pts
+			(xy 162.56 72.39) (xy 162.56 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2793,7 +3977,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 111.76) (xy 233.68 116.84)
+			(xy 149.86 154.94) (xy 149.86 160.02)
 		)
 		(stroke
 			(width 0)
@@ -2803,7 +3987,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 62.23) (xy 185.42 62.23)
+			(xy 248.92 115.57) (xy 256.54 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2813,7 +3997,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 33.02) (xy 185.42 39.37)
+			(xy 256.54 86.36) (xy 256.54 92.71)
 		)
 		(stroke
 			(width 0)
@@ -2823,7 +4007,17 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 142.24) (xy 81.28 142.24)
+			(xy 24.13 60.96) (xy 24.13 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53dcf511-4df4-4ef9-8100-ded52f2583fb")
+	)
+	(wire
+		(pts
+			(xy 101.6 92.71) (xy 106.68 92.71)
 		)
 		(stroke
 			(width 0)
@@ -2833,7 +4027,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 134.62) (xy 137.16 137.16)
+			(xy 162.56 85.09) (xy 162.56 87.63)
 		)
 		(stroke
 			(width 0)
@@ -2843,7 +4037,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 57.15) (xy 185.42 62.23)
+			(xy 256.54 110.49) (xy 256.54 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2853,7 +4047,27 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 39.37) (xy 172.72 39.37)
+			(xy 99.06 38.1) (xy 99.06 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d7b2d7b-c297-4797-9494-bb9080b09e79")
+	)
+	(wire
+		(pts
+			(xy 24.13 77.47) (xy 24.13 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e496d1f-0c06-4160-88ff-4d92c827bdb4")
+	)
+	(wire
+		(pts
+			(xy 256.54 92.71) (xy 243.84 92.71)
 		)
 		(stroke
 			(width 0)
@@ -2863,7 +4077,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 132.08) (xy 35.56 165.1)
+			(xy 82.55 82.55) (xy 82.55 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2873,7 +4087,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 127) (xy 238.76 127)
+			(xy 149.86 170.18) (xy 154.94 170.18)
 		)
 		(stroke
 			(width 0)
@@ -2883,7 +4097,17 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 39.37) (xy 44.45 39.37)
+			(xy 86.36 55.88) (xy 86.36 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6526a4d3-63c6-46bb-8afc-b8a7be7d923e")
+	)
+	(wire
+		(pts
+			(xy 194.31 35.56) (xy 207.01 35.56)
 		)
 		(stroke
 			(width 0)
@@ -2893,7 +4117,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 144.78) (xy 76.2 147.32)
+			(xy 101.6 95.25) (xy 101.6 97.79)
 		)
 		(stroke
 			(width 0)
@@ -2903,7 +4127,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 49.53) (xy 177.8 62.23)
+			(xy 248.92 102.87) (xy 248.92 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2913,7 +4137,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 142.24) (xy 132.08 142.24)
+			(xy 162.56 92.71) (xy 157.48 92.71)
 		)
 		(stroke
 			(width 0)
@@ -2923,7 +4147,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 132.08) (xy 81.28 132.08)
+			(xy 82.55 82.55) (xy 106.68 82.55)
 		)
 		(stroke
 			(width 0)
@@ -2933,7 +4157,17 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 39.37) (xy 31.75 44.45)
+			(xy 120.65 175.26) (xy 154.94 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7167f5d5-ebda-4579-a97d-8cc5a147b88a")
+	)
+	(wire
+		(pts
+			(xy 194.31 35.56) (xy 194.31 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2943,7 +4177,27 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 134.62) (xy 81.28 134.62)
+			(xy 72.39 60.96) (xy 72.39 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77f49c71-d159-4960-9769-8f5856f81636")
+	)
+	(wire
+		(pts
+			(xy 24.13 38.1) (xy 24.13 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77f69f93-1ff4-449d-9f71-71cef5170867")
+	)
+	(wire
+		(pts
+			(xy 101.6 85.09) (xy 106.68 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2953,7 +4207,17 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 132.08) (xy 137.16 134.62)
+			(xy 38.1 100.33) (xy 24.13 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88c9a554-eb47-496d-be85-3e520c091843")
+	)
+	(wire
+		(pts
+			(xy 162.56 82.55) (xy 162.56 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2963,7 +4227,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 62.23) (xy 95.25 66.04)
+			(xy 257.81 58.42) (xy 257.81 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2973,7 +4237,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 44.45) (xy 44.45 44.45)
+			(xy 212.09 40.64) (xy 207.01 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2983,7 +4247,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 119.38) (xy 238.76 119.38)
+			(xy 149.86 162.56) (xy 154.94 162.56)
 		)
 		(stroke
 			(width 0)
@@ -2993,7 +4257,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 49.53) (xy 134.62 49.53)
+			(xy 210.82 102.87) (xy 205.74 102.87)
 		)
 		(stroke
 			(width 0)
@@ -3003,7 +4267,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 116.84) (xy 233.68 116.84)
+			(xy 154.94 160.02) (xy 149.86 160.02)
 		)
 		(stroke
 			(width 0)
@@ -3013,7 +4277,17 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 129.54) (xy 35.56 129.54)
+			(xy 72.39 38.1) (xy 72.39 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9951d69c-2acf-48cc-aeba-cddad7e3e683")
+	)
+	(wire
+		(pts
+			(xy 106.68 80.01) (xy 82.55 80.01)
 		)
 		(stroke
 			(width 0)
@@ -3023,7 +4297,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 62.23) (xy 87.63 62.23)
+			(xy 257.81 58.42) (xy 250.19 58.42)
 		)
 		(stroke
 			(width 0)
@@ -3033,7 +4307,27 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 127) (xy 137.16 127)
+			(xy 99.06 72.39) (xy 106.68 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a26bc9d5-53bd-4a51-9e20-359ff076b509")
+	)
+	(wire
+		(pts
+			(xy 86.36 43.18) (xy 86.36 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a29b4d86-4f9f-4606-9b80-6e3549d62a75")
+	)
+	(wire
+		(pts
+			(xy 157.48 77.47) (xy 162.56 77.47)
 		)
 		(stroke
 			(width 0)
@@ -3043,7 +4337,17 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 139.7) (xy 76.2 142.24)
+			(xy 24.13 31.75) (xy 24.13 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a43f7a31-0535-4d73-8ed3-b9bd0516ba79")
+	)
+	(wire
+		(pts
+			(xy 101.6 90.17) (xy 101.6 92.71)
 		)
 		(stroke
 			(width 0)
@@ -3053,7 +4357,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 49.53) (xy 134.62 62.23)
+			(xy 205.74 102.87) (xy 205.74 115.57)
 		)
 		(stroke
 			(width 0)
@@ -3063,7 +4367,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 139.7) (xy 81.28 139.7)
+			(xy 101.6 90.17) (xy 106.68 90.17)
 		)
 		(stroke
 			(width 0)
@@ -3073,7 +4377,17 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 147.32) (xy 81.28 147.32)
+			(xy 101.6 69.85) (xy 101.6 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac8e21a4-4ac0-4b82-ace2-317eb767d54f")
+	)
+	(wire
+		(pts
+			(xy 101.6 97.79) (xy 106.68 97.79)
 		)
 		(stroke
 			(width 0)
@@ -3083,7 +4397,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 144.78) (xy 144.78 144.78)
+			(xy 157.48 95.25) (xy 162.56 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3093,7 +4407,17 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 137.16) (xy 76.2 137.16)
+			(xy 38.1 95.25) (xy 38.1 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b45b600d-2431-45cc-ba51-784bfd140635")
+	)
+	(wire
+		(pts
+			(xy 106.68 87.63) (xy 101.6 87.63)
 		)
 		(stroke
 			(width 0)
@@ -3103,7 +4427,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 132.08) (xy 238.76 132.08)
+			(xy 113.03 175.26) (xy 120.65 175.26)
 		)
 		(stroke
 			(width 0)
@@ -3113,7 +4437,27 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 49.53) (xy 87.63 49.53)
+			(xy 38.1 55.88) (xy 38.1 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba31d8cc-f9ad-41c3-86c8-8132d1de2054")
+	)
+	(wire
+		(pts
+			(xy 120.65 170.18) (xy 120.65 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bac178c8-dbe1-453c-a951-902d0da98fcf")
+	)
+	(wire
+		(pts
+			(xy 245.11 45.72) (xy 250.19 45.72)
 		)
 		(stroke
 			(width 0)
@@ -3123,17 +4467,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 127) (xy 81.28 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bc7e840e-5809-4288-b25a-ff07759f589b")
-	)
-	(wire
-		(pts
-			(xy 132.08 134.62) (xy 137.16 134.62)
+			(xy 157.48 85.09) (xy 162.56 85.09)
 		)
 		(stroke
 			(width 0)
@@ -3143,7 +4477,17 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 39.37) (xy 49.53 39.37)
+			(xy 24.13 38.1) (xy 38.1 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bee4947a-dbec-4053-84a6-c3a919daee33")
+	)
+	(wire
+		(pts
+			(xy 207.01 35.56) (xy 212.09 35.56)
 		)
 		(stroke
 			(width 0)
@@ -3153,7 +4497,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 39.37) (xy 121.92 44.45)
+			(xy 193.04 92.71) (xy 193.04 97.79)
 		)
 		(stroke
 			(width 0)
@@ -3163,7 +4507,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 152.4) (xy 81.28 152.4)
+			(xy 101.6 102.87) (xy 106.68 102.87)
 		)
 		(stroke
 			(width 0)
@@ -3173,7 +4517,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 33.02) (xy 121.92 39.37)
+			(xy 193.04 86.36) (xy 193.04 92.71)
 		)
 		(stroke
 			(width 0)
@@ -3183,7 +4527,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 119.38) (xy 137.16 119.38)
+			(xy 157.48 69.85) (xy 162.56 69.85)
 		)
 		(stroke
 			(width 0)
@@ -3193,7 +4537,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 147.32) (xy 144.78 147.32)
+			(xy 157.48 97.79) (xy 162.56 97.79)
 		)
 		(stroke
 			(width 0)
@@ -3203,7 +4547,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 33.02) (xy 95.25 39.37)
+			(xy 257.81 29.21) (xy 257.81 35.56)
 		)
 		(stroke
 			(width 0)
@@ -3213,7 +4557,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 134.62) (xy 233.68 139.7)
+			(xy 149.86 177.8) (xy 149.86 182.88)
 		)
 		(stroke
 			(width 0)
@@ -3223,7 +4567,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 49.53) (xy 49.53 49.53)
+			(xy 207.01 45.72) (xy 212.09 45.72)
 		)
 		(stroke
 			(width 0)
@@ -3233,7 +4577,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 44.45) (xy 44.45 39.37)
+			(xy 207.01 40.64) (xy 207.01 35.56)
 		)
 		(stroke
 			(width 0)
@@ -3243,7 +4587,17 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 119.38) (xy 137.16 121.92)
+			(xy 38.1 77.47) (xy 106.68 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf9ac8bb-68fc-4ed1-8740-9fed5e54f21f")
+	)
+	(wire
+		(pts
+			(xy 162.56 69.85) (xy 162.56 72.39)
 		)
 		(stroke
 			(width 0)
@@ -3253,7 +4607,27 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 139.7) (xy 137.16 142.24)
+			(xy 162.56 52.07) (xy 162.56 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d52d95bc-3643-4c75-8bd0-13fba53da168")
+	)
+	(wire
+		(pts
+			(xy 120.65 147.32) (xy 120.65 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5555826-3d83-4bf6-8928-362176eeee60")
+	)
+	(wire
+		(pts
+			(xy 162.56 90.17) (xy 162.56 92.71)
 		)
 		(stroke
 			(width 0)
@@ -3263,7 +4637,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 121.92) (xy 238.76 121.92)
+			(xy 149.86 165.1) (xy 154.94 165.1)
 		)
 		(stroke
 			(width 0)
@@ -3273,7 +4647,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 134.62) (xy 233.68 134.62)
+			(xy 154.94 177.8) (xy 149.86 177.8)
 		)
 		(stroke
 			(width 0)
@@ -3283,7 +4657,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 129.54) (xy 35.56 132.08)
+			(xy 82.55 80.01) (xy 82.55 82.55)
 		)
 		(stroke
 			(width 0)
@@ -3293,7 +4667,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 39.37) (xy 134.62 44.45)
+			(xy 205.74 92.71) (xy 205.74 97.79)
 		)
 		(stroke
 			(width 0)
@@ -3303,7 +4677,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 62.23) (xy 134.62 62.23)
+			(xy 248.92 115.57) (xy 205.74 115.57)
 		)
 		(stroke
 			(width 0)
@@ -3313,7 +4687,17 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 124.46) (xy 238.76 124.46)
+			(xy 86.36 38.1) (xy 99.06 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef63e8c6-9a8f-4227-a74f-0852ad39d2f3")
+	)
+	(wire
+		(pts
+			(xy 149.86 167.64) (xy 154.94 167.64)
 		)
 		(stroke
 			(width 0)
@@ -3323,7 +4707,17 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 39.37) (xy 134.62 39.37)
+			(xy 24.13 100.33) (xy 24.13 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4ff2097-fbfe-4315-88f0-daec2adb6982")
+	)
+	(wire
+		(pts
+			(xy 193.04 92.71) (xy 205.74 92.71)
 		)
 		(stroke
 			(width 0)
@@ -3333,7 +4727,47 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 49.53) (xy 87.63 62.23)
+			(xy 86.36 60.96) (xy 72.39 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9e53a63-734a-4ec6-99b3-9bf65ee8fa5b")
+	)
+	(wire
+		(pts
+			(xy 38.1 38.1) (xy 50.8 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbd1de7c-26f8-4a61-bf02-5116088443f7")
+	)
+	(wire
+		(pts
+			(xy 58.42 60.96) (xy 58.42 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc48d14f-75ad-42c8-8ce7-b652ba92c931")
+	)
+	(wire
+		(pts
+			(xy 58.42 60.96) (xy 58.42 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdfeedb4-f339-485d-b3a3-c33dc80c659d")
+	)
+	(wire
+		(pts
+			(xy 250.19 45.72) (xy 250.19 58.42)
 		)
 		(stroke
 			(width 0)
@@ -3343,7 +4777,7 @@
 	)
 	(global_label "MOTION"
 		(shape input)
-		(at 144.78 154.94 0)
+		(at 162.56 105.41 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3353,7 +4787,7 @@
 		)
 		(uuid "21c6efb7-bd80-4608-bf76-9c40f8ebc30c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 154.7805 154.94 0)
+			(at 172.5605 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3365,7 +4799,7 @@
 	)
 	(global_label "SCLK"
 		(shape input)
-		(at 144.78 149.86 0)
+		(at 162.56 100.33 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3375,7 +4809,7 @@
 		)
 		(uuid "30f15ff7-0f61-4256-8c19-6cec9e229e59")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 152.5428 149.86 0)
+			(at 170.3228 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3387,7 +4821,7 @@
 	)
 	(global_label "RESET"
 		(shape input)
-		(at 63.5 134.62 180)
+		(at 101.6 85.09 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3397,7 +4831,7 @@
 		)
 		(uuid "545f0a70-8836-42db-b655-2c27a364f8a3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 54.7697 134.62 0)
+			(at 92.8697 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3409,7 +4843,7 @@
 	)
 	(global_label "MOSI"
 		(shape input)
-		(at 233.68 124.46 180)
+		(at 149.86 167.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3419,7 +4853,7 @@
 		)
 		(uuid "7e77abf7-0e40-4ec6-bc21-2f8643f21c22")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 226.0986 124.46 0)
+			(at 142.2786 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3431,7 +4865,7 @@
 	)
 	(global_label "MOTION"
 		(shape input)
-		(at 233.68 129.54 180)
+		(at 149.86 172.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3441,7 +4875,7 @@
 		)
 		(uuid "82136655-d0d6-4655-98cb-51fe33049099")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 223.6795 129.54 0)
+			(at 139.8595 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3453,7 +4887,7 @@
 	)
 	(global_label "MISO"
 		(shape input)
-		(at 144.78 147.32 0)
+		(at 162.56 97.79 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3463,7 +4897,7 @@
 		)
 		(uuid "89910762-d9bc-4b18-93da-295af401f2f5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 152.3614 147.32 0)
+			(at 170.1414 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3475,7 +4909,7 @@
 	)
 	(global_label "MISO"
 		(shape input)
-		(at 233.68 121.92 180)
+		(at 149.86 165.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3485,7 +4919,7 @@
 		)
 		(uuid "91e0bee5-b94c-447d-8727-0ba6a2303afa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 226.0986 121.92 0)
+			(at 142.2786 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3497,7 +4931,7 @@
 	)
 	(global_label "SCLK"
 		(shape input)
-		(at 233.68 119.38 180)
+		(at 149.86 162.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3507,7 +4941,7 @@
 		)
 		(uuid "9a31ce0d-cbcf-436d-9595-9abe67c23133")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 225.9172 119.38 0)
+			(at 142.0972 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3519,7 +4953,7 @@
 	)
 	(global_label "RESET"
 		(shape input)
-		(at 233.68 132.08 180)
+		(at 113.03 175.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3529,7 +4963,7 @@
 		)
 		(uuid "bd6b4b22-b84d-403f-b2a3-923acbd45002")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 224.9497 132.08 0)
+			(at 104.2997 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3541,7 +4975,7 @@
 	)
 	(global_label "CS"
 		(shape input)
-		(at 144.78 144.78 0)
+		(at 162.56 95.25 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3551,7 +4985,7 @@
 		)
 		(uuid "bf35516a-6329-4539-8b56-f7e48a11b15c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 150.2447 144.78 0)
+			(at 168.0247 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3563,7 +4997,7 @@
 	)
 	(global_label "CS"
 		(shape input)
-		(at 233.68 127 180)
+		(at 149.86 170.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3573,7 +5007,7 @@
 		)
 		(uuid "e35546a4-7ab2-4bd2-b026-80e674d9ee36")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 228.2153 127 0)
+			(at 144.3953 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3585,7 +5019,7 @@
 	)
 	(global_label "MOSI"
 		(shape input)
-		(at 144.78 152.4 0)
+		(at 162.56 102.87 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3595,7 +5029,7 @@
 		)
 		(uuid "e88bb99c-d053-42c0-8c06-6ac3735310d4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 152.3614 152.4 0)
+			(at 170.1414 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3606,8 +5040,129 @@
 		)
 	)
 	(symbol
+		(lib_id "engemil_pmw3901mb_module_symbol_library:C0805C106K4PAC7210")
+		(at 24.13 43.18 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "042ece57-4e1f-4e37-8a23-d37aef644f50")
+		(property "Reference" "C9"
+			(at 27.94 48.2599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10uF"
+			(at 27.94 50.7999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "C0805"
+			(at -72.06 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
+			(at -172.06 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "SMD Comm X5R, Ceramic, 10 uF, 10%, 16 VDC, 40 VDC, 85C, -55C, X5R, SMD, MLCC, Temperature Stable, Class II, 10 % , 10 MOhms, 21 mg, 0805, 2mm, 1.25mm, 1.25mm, 0.75mm, 0.5mm, 10000, 78  Weeks, 70"
+			(at 24.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.1"
+			(at -372.06 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "80-C0805C106K4P7210"
+			(at -472.06 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C106K4PAC7210?qs=zDkSFN9STR9jrJZBgSwCDA%3D%3D"
+			(at -572.06 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at -672.06 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C106K4PAC7210"
+			(at -772.06 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8767a4d5-b0ce-4de8-b36a-38d708126eed")
+		)
+		(pin "1"
+			(uuid "27a221c6-94ad-43ef-a5da-cf18d14d544c")
+		)
+		(instances
+			(project ""
+				(path "/4b3d6c6d-c090-43d6-aef4-73c7c564178d"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VCC")
-		(at 31.75 33.02 0)
+		(at 194.31 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3616,7 +5171,7 @@
 		(fields_autoplaced yes)
 		(uuid "073db56c-8e52-4542-ab3d-a75332d62a68")
 		(property "Reference" "#PWR02"
-			(at 31.75 36.83 0)
+			(at 194.31 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3625,7 +5180,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 31.75 27.94 0)
+			(at 194.31 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3633,7 +5188,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 31.75 33.02 0)
+			(at 194.31 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3642,7 +5197,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 31.75 33.02 0)
+			(at 194.31 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3651,7 +5206,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 31.75 33.02 0)
+			(at 194.31 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3673,16 +5228,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 76.2 165.1 0)
+		(at 24.13 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "1bdd5ef0-4119-482c-845a-7f0bef85e7be")
-		(property "Reference" "#PWR09"
-			(at 76.2 171.45 0)
+		(uuid "17a5d6fe-a4e7-4afe-a0df-04bdd296a9d7")
+		(property "Reference" "#PWR016"
+			(at 24.13 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3691,7 +5246,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 76.2 170.18 0)
+			(at 24.13 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3699,7 +5254,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 76.2 165.1 0)
+			(at 24.13 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3708,7 +5263,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 165.1 0)
+			(at 24.13 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3717,7 +5272,73 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 76.2 165.1 0)
+			(at 24.13 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "27a060c6-f599-433f-ab62-a1644e945d0b")
+		)
+		(instances
+			(project "engemil_pmw3901mb"
+				(path "/4b3d6c6d-c090-43d6-aef4-73c7c564178d"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 101.6 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1bdd5ef0-4119-482c-845a-7f0bef85e7be")
+		(property "Reference" "#PWR09"
+			(at 101.6 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 101.6 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 101.6 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 101.6 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 101.6 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3739,16 +5360,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 233.68 139.7 0)
+		(at 24.13 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "291f8fdc-ad50-4c54-9a22-08dd8a40a70b")
-		(property "Reference" "#PWR011"
-			(at 233.68 146.05 0)
+		(uuid "269e80b5-f57c-40db-a4af-6de34d0b080d")
+		(property "Reference" "#PWR014"
+			(at 24.13 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3757,7 +5378,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 233.68 144.78 0)
+			(at 24.13 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3765,7 +5386,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 233.68 139.7 0)
+			(at 24.13 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3774,7 +5395,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 233.68 139.7 0)
+			(at 24.13 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3783,7 +5404,195 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 233.68 139.7 0)
+			(at 24.13 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "41e9bc78-76cf-432a-b473-bc2edb3d27b9")
+		)
+		(instances
+			(project "engemil_pmw3901mb"
+				(path "/4b3d6c6d-c090-43d6-aef4-73c7c564178d"
+					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "engemil_pmw3901mb_module_symbol_library:C0805C104JMRECAUTO7210")
+		(at 38.1 82.55 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "290a2dbd-13a3-4ec1-8c70-02bc5369537a")
+		(property "Reference" "C10"
+			(at 41.91 87.6299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 41.91 90.1699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CAPC2012X110N"
+			(at -58.09 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C104JMRECAUTO7210"
+			(at -158.09 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "C0805C104JMRECAUTO7210"
+			(at 38.1 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.1"
+			(at -358.09 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "80-C0805C104JMREAULR"
+			(at -458.09 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104JMRECAUTO7210?qs=55YtniHzbhCWsM9aesOnTg%3D%3D"
+			(at -558.09 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at -658.09 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C104JMRECAUTO7210"
+			(at -758.09 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9225e7de-4473-4112-8cc2-f45b64ab1e78")
+		)
+		(pin "2"
+			(uuid "4d8a9101-d26c-4bc2-8670-c579c1eba664")
+		)
+		(instances
+			(project "engemil_pmw3901mb"
+				(path "/4b3d6c6d-c090-43d6-aef4-73c7c564178d"
+					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 149.86 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "291f8fdc-ad50-4c54-9a22-08dd8a40a70b")
+		(property "Reference" "#PWR011"
+			(at 149.86 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 149.86 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 149.86 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 149.86 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 149.86 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3805,7 +5614,7 @@
 	)
 	(symbol
 		(lib_id "power:+1V8")
-		(at 31.75 102.87 0)
+		(at 58.42 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3814,7 +5623,7 @@
 		(fields_autoplaced yes)
 		(uuid "343a1ed7-9331-4edc-be4d-18bb44d77dcd")
 		(property "Reference" "#PWR08"
-			(at 31.75 106.68 0)
+			(at 58.42 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3823,7 +5632,7 @@
 			)
 		)
 		(property "Value" "+1V8"
-			(at 31.75 97.79 0)
+			(at 58.42 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3831,7 +5640,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 31.75 102.87 0)
+			(at 58.42 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3840,7 +5649,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 31.75 102.87 0)
+			(at 58.42 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3849,7 +5658,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+1V8\""
-			(at 31.75 102.87 0)
+			(at 58.42 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3870,8 +5679,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 120.65 147.32 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "474dc029-dca8-4a1a-9881-13a5870bbc7f")
+		(property "Reference" "#PWR015"
+			(at 120.65 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 120.65 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 120.65 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 120.65 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 120.65 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d5a838e1-a3e9-406c-9958-f2fe3b3f2b89")
+		)
+		(instances
+			(project "engemil_pmw3901mb"
+				(path "/4b3d6c6d-c090-43d6-aef4-73c7c564178d"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "engemil_pmw3901mb_module_symbol_library:PMW3901MB-TXQT")
-		(at 81.28 119.38 0)
+		(at 106.68 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3880,7 +5754,7 @@
 		(fields_autoplaced yes)
 		(uuid "4eaf493b-602b-4634-aef3-c311085bdf30")
 		(property "Reference" "U1"
-			(at 106.68 109.22 0)
+			(at 132.08 59.69 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -3888,7 +5762,7 @@
 			)
 		)
 		(property "Value" "PMW3901MB-TXQT"
-			(at 106.68 111.76 0)
+			(at 132.08 62.23 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -3896,7 +5770,7 @@
 			)
 		)
 		(property "Footprint" "QFN_01MB-TXQT_PIX"
-			(at 81.28 119.38 0)
+			(at 106.68 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3906,7 +5780,7 @@
 			)
 		)
 		(property "Datasheet" "PMW3901MB-TXQT"
-			(at 81.28 119.38 0)
+			(at 106.68 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3916,7 +5790,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 81.28 119.38 0)
+			(at 106.68 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4022,7 +5896,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 95.25 66.04 0)
+		(at 257.81 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4031,7 +5905,7 @@
 		(fields_autoplaced yes)
 		(uuid "5320eb4a-ffcd-4aa1-ae45-e45bf6938570")
 		(property "Reference" "#PWR03"
-			(at 95.25 72.39 0)
+			(at 257.81 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4040,7 +5914,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 95.25 71.12 0)
+			(at 257.81 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4048,7 +5922,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 66.04 0)
+			(at 257.81 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4057,7 +5931,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 66.04 0)
+			(at 257.81 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4066,7 +5940,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 95.25 66.04 0)
+			(at 257.81 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4088,7 +5962,7 @@
 	)
 	(symbol
 		(lib_id "engemil_pmw3901mb_module_symbol_library:C0805C105J4RECAUTO7210")
-		(at 31.75 57.15 90)
+		(at 194.31 53.34 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4097,7 +5971,7 @@
 		(fields_autoplaced yes)
 		(uuid "5446fd14-d78f-4318-bfe9-8f0f77e66c27")
 		(property "Reference" "C1"
-			(at 35.56 49.5299 90)
+			(at 198.12 45.7199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4106,7 +5980,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 35.56 52.0699 90)
+			(at 198.12 48.2599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4115,7 +5989,7 @@
 			)
 		)
 		(property "Footprint" "engemil_pmw3901mb_module_footprint_library:C0805"
-			(at 127.94 48.26 0)
+			(at 290.5 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4125,7 +5999,7 @@
 			)
 		)
 		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf"
-			(at 227.94 48.26 0)
+			(at 390.5 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4135,7 +6009,7 @@
 			)
 		)
 		(property "Description" "ESD SMD Auto X7R, Ceramic, 1 uF, 5%, 16 VDC, 40 VDC, 125C, -55C, X7R, SMD, MLCC, Temperature Stable, Electro Static Discharge, Automotive Grade, 3.5 % , 500 MOhms, 21 mg, 0805, 2mm, 1.25mm, 1.25mm, 0.75mm, 0.5mm, 10000, 78  Weeks, 80"
-			(at 31.75 57.15 0)
+			(at 194.31 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4144,7 +6018,7 @@
 			)
 		)
 		(property "Height" "1.1"
-			(at 427.94 48.26 0)
+			(at 590.5 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4154,7 +6028,7 @@
 			)
 		)
 		(property "Mouser Part Number" "80-C0805C105J4REAULR"
-			(at 527.94 48.26 0)
+			(at 690.5 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4164,7 +6038,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C105J4RECAUTO7210?qs=55YtniHzbhDbyzfJO59W6Q%3D%3D"
-			(at 627.94 48.26 0)
+			(at 790.5 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4174,7 +6048,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "KEMET"
-			(at 727.94 48.26 0)
+			(at 890.5 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4184,7 +6058,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "C0805C105J4RECAUTO7210"
-			(at 827.94 48.26 0)
+			(at 990.5 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4210,7 +6084,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 35.56 165.1 0)
+		(at 82.55 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4219,7 +6093,7 @@
 		(fields_autoplaced yes)
 		(uuid "5728da65-f122-43a1-a57a-116b70069b8c")
 		(property "Reference" "#PWR010"
-			(at 35.56 171.45 0)
+			(at 82.55 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4228,7 +6102,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 35.56 170.18 0)
+			(at 82.55 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4236,7 +6110,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 35.56 165.1 0)
+			(at 82.55 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4245,7 +6119,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 165.1 0)
+			(at 82.55 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4254,7 +6128,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 35.56 165.1 0)
+			(at 82.55 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4275,8 +6149,130 @@
 		)
 	)
 	(symbol
+		(lib_id "engemil_pmw3901mb_module_symbol_library:C0805C226M9PAC7210")
+		(at 72.39 43.18 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5be8190a-1a5a-4aa5-9a9f-62ed89b9ad89")
+		(property "Reference" "C5"
+			(at 76.2 48.2599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22uF"
+			(at 76.2 50.7999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "C0805"
+			(at -23.8 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
+			(at -123.8 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "SMD Comm X5R, Ceramic, 22 uF, 20%, 6.3 VDC, 15.75 VDC, 85C, -55C, X5R, SMD, MLCC, Temperature Stable, Class II, 10 % , 4.5 MOhms, 21 mg, 0805, 2mm, 1.25mm, 1.25mm, 0.75mm, 0.5mm, 10000, 78  Weeks, 70"
+			(at 72.39 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.1"
+			(at -323.8 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "80-C0805C226M9PACLR"
+			(at -423.8 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C226M9PAC7210?qs=kSrfU%2F8XGbk4aYGfk4dTXw%3D%3D"
+			(at -523.8 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at -623.8 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C226M9PAC7210"
+			(at -723.8 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d89abc03-3d12-46f8-b89c-2e400ee59dd7")
+		)
+		(pin "2"
+			(uuid "b1ac21e4-f8be-433a-b218-c009f8a1311f")
+		)
+		(instances
+			(project ""
+				(path "/4b3d6c6d-c090-43d6-aef4-73c7c564178d"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "engemil_pmw3901mb_module_symbol_library:6130XX11121_61300811121")
-		(at 243.84 124.46 270)
+		(at 160.02 167.64 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4284,7 +6280,7 @@
 		(dnp no)
 		(uuid "668ecc2a-3c30-48cd-89f7-8738cb1a6470")
 		(property "Reference" "J1"
-			(at 241.3 113.792 90)
+			(at 157.48 156.972 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4293,7 +6289,7 @@
 			)
 		)
 		(property "Value" "6130XX11121"
-			(at 245.11 126.9999 90)
+			(at 161.29 170.1799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4303,7 +6299,7 @@
 			)
 		)
 		(property "Footprint" "engemil_pmw3901mb_module_footprint_library:61300811121"
-			(at 243.84 124.46 0)
+			(at 160.02 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4313,7 +6309,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 124.46 0)
+			(at 160.02 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4322,7 +6318,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 243.84 124.46 0)
+			(at 160.02 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4365,7 +6361,7 @@
 	)
 	(symbol
 		(lib_id "engemil_pmw3901mb_module_symbol_library:TLV77318PDBVR")
-		(at 139.7 39.37 0)
+		(at 210.82 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4373,7 +6369,7 @@
 		(dnp no)
 		(uuid "69e14d56-02cf-4a8e-80df-e36d89e2ba15")
 		(property "Reference" "U3"
-			(at 156.21 29.21 0)
+			(at 227.33 82.55 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4381,7 +6377,7 @@
 			)
 		)
 		(property "Value" "TLV77318PDBVR"
-			(at 156.21 31.75 0)
+			(at 227.33 85.09 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4389,7 +6385,7 @@
 			)
 		)
 		(property "Footprint" "DBV0005A-IPC_A"
-			(at 139.7 39.37 0)
+			(at 210.82 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4399,7 +6395,7 @@
 			)
 		)
 		(property "Datasheet" "TLV77318PDBVR"
-			(at 139.7 39.37 0)
+			(at 210.82 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4409,7 +6405,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 139.7 39.37 0)
+			(at 210.82 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4443,7 +6439,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 95.25 33.02 0)
+		(at 257.81 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4452,7 +6448,7 @@
 		(fields_autoplaced yes)
 		(uuid "6cd51f67-4f8b-42cf-afbd-1cc941e323bc")
 		(property "Reference" "#PWR01"
-			(at 95.25 36.83 0)
+			(at 257.81 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4461,7 +6457,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 95.25 27.94 0)
+			(at 257.81 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4469,7 +6465,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 33.02 0)
+			(at 257.81 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4478,7 +6474,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 33.02 0)
+			(at 257.81 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4487,7 +6483,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 95.25 33.02 0)
+			(at 257.81 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4508,8 +6504,130 @@
 		)
 	)
 	(symbol
+		(lib_id "engemil_pmw3901mb_module_symbol_library:RE0805FRE0710KL")
+		(at 120.65 152.4 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7eca61b0-adce-4067-abc3-28d988eda7dd")
+		(property "Reference" "R1"
+			(at 123.19 160.0199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kOhm"
+			(at 123.19 162.5599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "RESC2012X60N"
+			(at 24.46 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-re_105_rohs_l.pdf"
+			(at -75.54 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 117.348 152.654 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.6"
+			(at -275.54 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "603-RE0805FRE0710KL"
+			(at -375.54 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RE0805FRE0710KL?qs=HEu%2FF%2FCqxzLXGIUQzS%252BC%252BA%3D%3D"
+			(at -475.54 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "YAGEO"
+			(at -575.54 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RE0805FRE0710KL"
+			(at -675.54 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8ec72da4-b400-489a-9e44-0db9b7968180")
+		)
+		(pin "1"
+			(uuid "14845f77-c8fb-4798-9817-1b68d145de32")
+		)
+		(instances
+			(project ""
+				(path "/4b3d6c6d-c090-43d6-aef4-73c7c564178d"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+1V8")
-		(at 185.42 33.02 0)
+		(at 256.54 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4518,7 +6636,7 @@
 		(fields_autoplaced yes)
 		(uuid "8298153d-0677-4eee-89e0-3d1e237c7a97")
 		(property "Reference" "#PWR06"
-			(at 185.42 36.83 0)
+			(at 256.54 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4527,7 +6645,7 @@
 			)
 		)
 		(property "Value" "+1V8"
-			(at 185.42 27.94 0)
+			(at 256.54 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4535,7 +6653,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 33.02 0)
+			(at 256.54 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4544,7 +6662,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 33.02 0)
+			(at 256.54 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4553,7 +6671,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+1V8\""
-			(at 185.42 33.02 0)
+			(at 256.54 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4574,17 +6692,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 121.92 33.02 0)
+		(lib_id "power:GND")
+		(at 58.42 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "924c09be-cfbe-4731-8a87-8461ef1c8e70")
-		(property "Reference" "#PWR05"
-			(at 121.92 36.83 0)
+		(uuid "8303101d-6b6b-40b8-ab57-ace36986459d")
+		(property "Reference" "#PWR013"
+			(at 58.42 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4592,8 +6710,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
-			(at 121.92 27.94 0)
+		(property "Value" "GND"
+			(at 58.42 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4601,7 +6719,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 121.92 33.02 0)
+			(at 58.42 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4610,7 +6728,195 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 33.02 0)
+			(at 58.42 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 58.42 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5b2368cb-82a1-4ba8-b2fe-b829500fdcb0")
+		)
+		(instances
+			(project "engemil_pmw3901mb"
+				(path "/4b3d6c6d-c090-43d6-aef4-73c7c564178d"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "engemil_pmw3901mb_module_symbol_library:C0805C104JMRECAUTO7210")
+		(at 58.42 43.18 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8a748905-42c0-453f-9343-7ec4f5a1fc39")
+		(property "Reference" "C7"
+			(at 62.23 48.2599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 62.23 50.7999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CAPC2012X110N"
+			(at -37.77 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C104JMRECAUTO7210"
+			(at -137.77 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "C0805C104JMRECAUTO7210"
+			(at 58.42 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.1"
+			(at -337.77 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "80-C0805C104JMREAULR"
+			(at -437.77 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104JMRECAUTO7210?qs=55YtniHzbhCWsM9aesOnTg%3D%3D"
+			(at -537.77 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at -637.77 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C104JMRECAUTO7210"
+			(at -737.77 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e4adc771-3316-4ee2-ae8b-c8457baca977")
+		)
+		(pin "2"
+			(uuid "11d2ca7b-ba1d-495f-b0bb-a8625302c40e")
+		)
+		(instances
+			(project ""
+				(path "/4b3d6c6d-c090-43d6-aef4-73c7c564178d"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 193.04 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "924c09be-cfbe-4731-8a87-8461ef1c8e70")
+		(property "Reference" "#PWR05"
+			(at 193.04 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 193.04 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 193.04 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4619,7 +6925,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 121.92 33.02 0)
+			(at 193.04 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4640,45 +6946,35 @@
 		)
 	)
 	(symbol
-		(lib_id "engemil_pmw3901mb_module_symbol_library:C0805C105J4RECAUTO7210")
-		(at 185.42 57.15 90)
+		(lib_id "engemil_pmw3901mb_module_symbol_library:C0805C104JMRECAUTO7210")
+		(at 38.1 43.18 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "b82630ab-ca6e-4fed-a7b3-b3f74a579881")
-		(property "Reference" "C4"
-			(at 189.23 49.5299 90)
+		(uuid "9d973fd6-bdf7-4c9b-a8e2-842cc2ed660f")
+		(property "Reference" "C8"
+			(at 41.91 48.2599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "1uF"
-			(at 189.23 52.0699 90)
+		(property "Value" "0.1uF"
+			(at 41.91 50.7999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "engemil_pmw3901mb_module_footprint_library:C0805"
-			(at 281.61 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf"
-			(at 381.61 48.26 0)
+		(property "Footprint" "CAPC2012X110N"
+			(at -58.09 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4687,8 +6983,18 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "ESD SMD Auto X7R, Ceramic, 1 uF, 5%, 16 VDC, 40 VDC, 125C, -55C, X7R, SMD, MLCC, Temperature Stable, Electro Static Discharge, Automotive Grade, 3.5 % , 500 MOhms, 21 mg, 0805, 2mm, 1.25mm, 1.25mm, 0.75mm, 0.5mm, 10000, 78  Weeks, 80"
-			(at 185.42 57.15 0)
+		(property "Datasheet" "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C104JMRECAUTO7210"
+			(at -158.09 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "C0805C104JMRECAUTO7210"
+			(at 38.1 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4697,7 +7003,7 @@
 			)
 		)
 		(property "Height" "1.1"
-			(at 581.61 48.26 0)
+			(at -358.09 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4706,8 +7012,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "80-C0805C105J4REAULR"
-			(at 681.61 48.26 0)
+		(property "Mouser Part Number" "80-C0805C104JMREAULR"
+			(at -458.09 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4716,8 +7022,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C105J4RECAUTO7210?qs=55YtniHzbhDbyzfJO59W6Q%3D%3D"
-			(at 781.61 48.26 0)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104JMRECAUTO7210?qs=55YtniHzbhCWsM9aesOnTg%3D%3D"
+			(at -558.09 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4727,7 +7033,129 @@
 			)
 		)
 		(property "Manufacturer_Name" "KEMET"
-			(at 881.61 48.26 0)
+			(at -658.09 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C104JMRECAUTO7210"
+			(at -758.09 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "81abd550-f5fb-43cf-82ce-ee016529c7b6")
+		)
+		(pin "2"
+			(uuid "7c9b580b-48f0-4aeb-b226-5ddf69e11c1d")
+		)
+		(instances
+			(project "engemil_pmw3901mb"
+				(path "/4b3d6c6d-c090-43d6-aef4-73c7c564178d"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "engemil_pmw3901mb_module_symbol_library:C0805C105J4RECAUTO7210")
+		(at 256.54 110.49 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b82630ab-ca6e-4fed-a7b3-b3f74a579881")
+		(property "Reference" "C4"
+			(at 260.35 102.8699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1uF"
+			(at 260.35 105.4099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "engemil_pmw3901mb_module_footprint_library:C0805"
+			(at 352.73 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf"
+			(at 452.73 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "ESD SMD Auto X7R, Ceramic, 1 uF, 5%, 16 VDC, 40 VDC, 125C, -55C, X7R, SMD, MLCC, Temperature Stable, Electro Static Discharge, Automotive Grade, 3.5 % , 500 MOhms, 21 mg, 0805, 2mm, 1.25mm, 1.25mm, 0.75mm, 0.5mm, 10000, 78  Weeks, 80"
+			(at 256.54 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.1"
+			(at 652.73 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "80-C0805C105J4REAULR"
+			(at 752.73 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C105J4RECAUTO7210?qs=55YtniHzbhDbyzfJO59W6Q%3D%3D"
+			(at 852.73 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 952.73 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4737,7 +7165,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "C0805C105J4RECAUTO7210"
-			(at 981.61 48.26 0)
+			(at 1052.73 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4763,7 +7191,7 @@
 	)
 	(symbol
 		(lib_id "engemil_pmw3901mb_module_symbol_library:C0805C105J4RECAUTO7210")
-		(at 121.92 57.15 90)
+		(at 193.04 110.49 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4772,7 +7200,7 @@
 		(fields_autoplaced yes)
 		(uuid "bbb0fa82-172c-44d7-840e-1fd1d3d2c1ec")
 		(property "Reference" "C3"
-			(at 125.73 49.5299 90)
+			(at 196.85 102.8699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4781,7 +7209,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 125.73 52.0699 90)
+			(at 196.85 105.4099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4790,7 +7218,7 @@
 			)
 		)
 		(property "Footprint" "engemil_pmw3901mb_module_footprint_library:C0805"
-			(at 218.11 48.26 0)
+			(at 289.23 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4800,7 +7228,7 @@
 			)
 		)
 		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf"
-			(at 318.11 48.26 0)
+			(at 389.23 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4810,7 +7238,7 @@
 			)
 		)
 		(property "Description" "ESD SMD Auto X7R, Ceramic, 1 uF, 5%, 16 VDC, 40 VDC, 125C, -55C, X7R, SMD, MLCC, Temperature Stable, Electro Static Discharge, Automotive Grade, 3.5 % , 500 MOhms, 21 mg, 0805, 2mm, 1.25mm, 1.25mm, 0.75mm, 0.5mm, 10000, 78  Weeks, 80"
-			(at 121.92 57.15 0)
+			(at 193.04 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4819,7 +7247,7 @@
 			)
 		)
 		(property "Height" "1.1"
-			(at 518.11 48.26 0)
+			(at 589.23 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4829,7 +7257,7 @@
 			)
 		)
 		(property "Mouser Part Number" "80-C0805C105J4REAULR"
-			(at 618.11 48.26 0)
+			(at 689.23 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4839,7 +7267,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C105J4RECAUTO7210?qs=55YtniHzbhDbyzfJO59W6Q%3D%3D"
-			(at 718.11 48.26 0)
+			(at 789.23 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4849,7 +7277,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "KEMET"
-			(at 818.11 48.26 0)
+			(at 889.23 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4859,7 +7287,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "C0805C105J4RECAUTO7210"
-			(at 918.11 48.26 0)
+			(at 989.23 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4885,7 +7313,7 @@
 	)
 	(symbol
 		(lib_id "engemil_pmw3901mb_module_symbol_library:TLV77333PDBVR")
-		(at 49.53 39.37 0)
+		(at 212.09 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4894,7 +7322,7 @@
 		(fields_autoplaced yes)
 		(uuid "cd09bb30-213e-46aa-a754-6b8d3da31a58")
 		(property "Reference" "U2"
-			(at 66.04 29.21 0)
+			(at 228.6 25.4 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4902,7 +7330,7 @@
 			)
 		)
 		(property "Value" "TLV77333PDBVR"
-			(at 66.04 31.75 0)
+			(at 228.6 27.94 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4910,7 +7338,7 @@
 			)
 		)
 		(property "Footprint" "DBV0005A-IPC_A"
-			(at 49.53 39.37 0)
+			(at 212.09 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4920,7 +7348,7 @@
 			)
 		)
 		(property "Datasheet" "TLV77333PDBVR"
-			(at 49.53 39.37 0)
+			(at 212.09 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4930,7 +7358,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 49.53 39.37 0)
+			(at 212.09 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4964,7 +7392,7 @@
 	)
 	(symbol
 		(lib_id "engemil_pmw3901mb_module_symbol_library:C0805C105J4RECAUTO7210")
-		(at 95.25 57.15 90)
+		(at 257.81 53.34 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4973,7 +7401,7 @@
 		(fields_autoplaced yes)
 		(uuid "cfcbf66c-d99a-4640-a718-54ad18e9b7b3")
 		(property "Reference" "C2"
-			(at 99.06 49.5299 90)
+			(at 261.62 45.7199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4982,7 +7410,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 99.06 52.0699 90)
+			(at 261.62 48.2599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4991,7 +7419,7 @@
 			)
 		)
 		(property "Footprint" "engemil_pmw3901mb_module_footprint_library:C0805"
-			(at 191.44 48.26 0)
+			(at 354 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5001,7 +7429,7 @@
 			)
 		)
 		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf"
-			(at 291.44 48.26 0)
+			(at 454 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5011,7 +7439,7 @@
 			)
 		)
 		(property "Description" "ESD SMD Auto X7R, Ceramic, 1 uF, 5%, 16 VDC, 40 VDC, 125C, -55C, X7R, SMD, MLCC, Temperature Stable, Electro Static Discharge, Automotive Grade, 3.5 % , 500 MOhms, 21 mg, 0805, 2mm, 1.25mm, 1.25mm, 0.75mm, 0.5mm, 10000, 78  Weeks, 80"
-			(at 95.25 57.15 0)
+			(at 257.81 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5020,7 +7448,7 @@
 			)
 		)
 		(property "Height" "1.1"
-			(at 491.44 48.26 0)
+			(at 654 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5030,7 +7458,7 @@
 			)
 		)
 		(property "Mouser Part Number" "80-C0805C105J4REAULR"
-			(at 591.44 48.26 0)
+			(at 754 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5040,7 +7468,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C105J4RECAUTO7210?qs=55YtniHzbhDbyzfJO59W6Q%3D%3D"
-			(at 691.44 48.26 0)
+			(at 854 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5050,7 +7478,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "KEMET"
-			(at 791.44 48.26 0)
+			(at 954 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5060,7 +7488,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "C0805C105J4RECAUTO7210"
-			(at 891.44 48.26 0)
+			(at 1054 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5086,7 +7514,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 185.42 66.04 0)
+		(at 256.54 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5095,7 +7523,7 @@
 		(fields_autoplaced yes)
 		(uuid "de1ca2e8-3940-435e-b2bc-66493750ecc4")
 		(property "Reference" "#PWR04"
-			(at 185.42 72.39 0)
+			(at 256.54 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5104,7 +7532,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 185.42 71.12 0)
+			(at 256.54 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5112,7 +7540,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 66.04 0)
+			(at 256.54 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5121,7 +7549,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 66.04 0)
+			(at 256.54 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5130,7 +7558,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 185.42 66.04 0)
+			(at 256.54 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5152,16 +7580,15 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 44.45 102.87 0)
+		(at 24.13 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e4b44ff6-ebc2-41ea-b7ed-3755b5a15849")
 		(property "Reference" "#PWR07"
-			(at 44.45 106.68 0)
+			(at 24.13 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5170,7 +7597,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 44.45 97.79 0)
+			(at 24.13 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5178,7 +7605,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 44.45 102.87 0)
+			(at 24.13 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5187,7 +7614,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 44.45 102.87 0)
+			(at 24.13 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5196,7 +7623,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 44.45 102.87 0)
+			(at 24.13 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5217,8 +7644,130 @@
 		)
 	)
 	(symbol
+		(lib_id "engemil_pmw3901mb_module_symbol_library:C0805C475K4RACAUTO7210")
+		(at 24.13 82.55 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e7f4e2a8-5578-4608-bae7-382e6397c5f2")
+		(property "Reference" "C11"
+			(at 27.94 87.6299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7uF"
+			(at 27.94 90.1699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "C0805"
+			(at -72.06 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1023_X7R_AUTO_SMD.pdf"
+			(at -172.06 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "SMD Auto X7R, Ceramic, 4.7 uF, 10%, 16 VDC, 40 VDC, 125C, -55C, X7R, SMD, MLCC, Temperature Stable, Automotive Grade, 10 % , 21.3 MOhms, 21 mg, 0805, 2mm, 1.25mm, 1.25mm, 0.75mm, 0.5mm, 10000, 78  Weeks, 80"
+			(at 24.13 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.1"
+			(at -372.06 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "80-C0805C475K4RAUTLR"
+			(at -472.06 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C475K4RACAUTO7210?qs=HXFqYaX1Q2xkgxFv524wgg%3D%3D"
+			(at -572.06 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at -672.06 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C475K4RACAUTO7210"
+			(at -772.06 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "45c68907-e78b-4571-bfd4-1d6ff30d4e18")
+		)
+		(pin "1"
+			(uuid "8f58b2dd-e32b-432d-9c71-4010eb429a45")
+		)
+		(instances
+			(project ""
+				(path "/4b3d6c6d-c090-43d6-aef4-73c7c564178d"
+					(reference "C11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VCC")
-		(at 233.68 111.76 0)
+		(at 149.86 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5227,7 +7776,7 @@
 		(fields_autoplaced yes)
 		(uuid "ee4a1964-0565-4f51-9f03-616007eee266")
 		(property "Reference" "#PWR012"
-			(at 233.68 115.57 0)
+			(at 149.86 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5236,7 +7785,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 233.68 106.68 0)
+			(at 149.86 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5244,7 +7793,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 233.68 111.76 0)
+			(at 149.86 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5253,7 +7802,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 233.68 111.76 0)
+			(at 149.86 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5262,7 +7811,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 233.68 111.76 0)
+			(at 149.86 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5277,6 +7826,128 @@
 			(project "engemil_pmw3901mb"
 				(path "/4b3d6c6d-c090-43d6-aef4-73c7c564178d"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "engemil_pmw3901mb_module_symbol_library:C0805C226M9PAC7210")
+		(at 86.36 43.18 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fd37697e-93e3-4607-971d-a8a2b9499fd6")
+		(property "Reference" "C6"
+			(at 90.17 48.2599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22uF"
+			(at 90.17 50.7999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "C0805"
+			(at -9.83 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
+			(at -109.83 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "SMD Comm X5R, Ceramic, 22 uF, 20%, 6.3 VDC, 15.75 VDC, 85C, -55C, X5R, SMD, MLCC, Temperature Stable, Class II, 10 % , 4.5 MOhms, 21 mg, 0805, 2mm, 1.25mm, 1.25mm, 0.75mm, 0.5mm, 10000, 78  Weeks, 70"
+			(at 86.36 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.1"
+			(at -309.83 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "80-C0805C226M9PACLR"
+			(at -409.83 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C226M9PAC7210?qs=kSrfU%2F8XGbk4aYGfk4dTXw%3D%3D"
+			(at -509.83 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at -609.83 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C226M9PAC7210"
+			(at -709.83 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "85ab7659-2274-424d-83ca-b173d79ff98e")
+		)
+		(pin "2"
+			(uuid "227a96c7-214f-4d38-acd6-5d1b8b720a70")
+		)
+		(instances
+			(project "engemil_pmw3901mb"
+				(path "/4b3d6c6d-c090-43d6-aef4-73c7c564178d"
+					(reference "C6")
 					(unit 1)
 				)
 			)

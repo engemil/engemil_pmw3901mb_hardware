@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "engemil_pmw3901mb_module_footprint_library")(type "KiCad")(uri "/home/engemil/Downloads/engemil_pmw3901mb_hardware/lib/footprints/engemil_pmw3901mb_module_footprint_library.pretty")(options "")(descr ""))
+  (lib (name "engemil_pmw3901mb_module_footprint_library")(type "KiCad")(uri "${KIPRJMOD}/../lib/footprints/engemil_pmw3901mb_module_footprint_library.pretty")(options "")(descr ""))
 )
