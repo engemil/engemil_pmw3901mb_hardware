@@ -1,4 +1,4 @@
-25623444471524080
+25615071225968636
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -102641,6 +102641,27 @@ Varistor VF
 2
 2
 engemil_pmw3901mb_module_footprint_library
+61300811121
+
+
+0
+8
+8
+engemil_pmw3901mb_module_footprint_library
+C0805
+C0805
+Capacitor
+0
+2
+2
+engemil_pmw3901mb_module_footprint_library
+CAPC2012X110N
+0805 (1.1 thickness)
+Capacitor
+0
+2
+2
+engemil_pmw3901mb_module_footprint_library
 DBV0005A-IPC_A
 
 TLV77333PDBVR 
@@ -102689,3 +102710,10 @@ PMW3901MB-TXQT
 0
 29
 29
+engemil_pmw3901mb_module_footprint_library
+RESC2012X60N
+RE0805
+Resistor
+0
+2
+2
