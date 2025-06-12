@@ -1,4 +1,4 @@
-# EngEmil PMW3901MB Hardware
+# EngEmil PMW3901MB Optical Flow Sensor Module
 
 The EngEmil PMW3901MB Module is a Optical Motion Tracking Chip module, for optical position control of drones. The PCB module is designed with KiCAD 9.
 

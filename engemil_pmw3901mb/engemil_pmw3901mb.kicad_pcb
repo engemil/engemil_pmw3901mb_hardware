@@ -118,9 +118,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../gerbers/")
 		)
 	)
 	(net 0 "")
@@ -6178,6 +6178,18 @@
 				(bold yes)
 			)
 			(justify left bottom)
+		)
+	)
+	(gr_text "Optical Flow Sensor Module"
+		(at 165.5 112 0)
+		(layer "B.SilkS")
+		(uuid "d3c3ff62-9e4b-4455-a593-ac9f4149f775")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(segment
