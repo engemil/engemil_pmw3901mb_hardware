@@ -1,4 +1,4 @@
-25615071225968636
+25618574639135921
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -102717,3 +102717,17 @@ Resistor
 0
 2
 2
+engemil_pmw3901mb_module_footprint_library
+SON40P135X170X80-9N
+DQD (R-PWSON-N8)
+Integrated Circuit
+0
+9
+9
+engemil_pmw3901mb_module_footprint_library
+SOT65P210X110-6N
+DCK (R-PDSO-G6)
+Integrated Circuit
+0
+6
+6
