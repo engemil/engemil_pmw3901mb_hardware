@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "9.0.2"
     },
-    "CreationDate": "2025-06-12T16:07:02+02:00"
+    "CreationDate": "2025-06-24T18:37:00+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "engemil_pmw3901mb",
       "GUID": "656e6765-6d69-46c5-9f70-6d7733393031",
-      "Revision": "1"
+      "Revision": "2"
     },
     "Size": {
       "X": 50.05,
-      "Y": 30.05
+      "Y": 27.3
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -27,7 +27,7 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.254,
+      "MinLineWidth": 0.2,
       "TrackToRegion": 0.5,
       "RegionToRegion": 0.5
     }

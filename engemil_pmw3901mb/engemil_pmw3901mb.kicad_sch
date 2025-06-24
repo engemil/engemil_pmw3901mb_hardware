@@ -3818,6 +3818,12 @@
 		(uuid "0add408c-c44b-462f-bbd2-9a12735cef71")
 	)
 	(junction
+		(at 266.7 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0c1b1e4c-8ef9-4f57-a480-897221626c5f")
+	)
+	(junction
 		(at 191.77 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4033,6 +4039,16 @@
 	)
 	(wire
 		(pts
+			(xy 278.13 88.9) (xy 278.13 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0481fc2a-a3ef-474f-b058-2745077d81cb")
+	)
+	(wire
+		(pts
 			(xy 205.74 88.9) (xy 205.74 91.44)
 		)
 		(stroke
@@ -4190,6 +4206,16 @@
 			(type default)
 		)
 		(uuid "1cdf2c61-d423-4661-aeb7-63451654c51f")
+	)
+	(wire
+		(pts
+			(xy 266.7 88.9) (xy 278.13 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d5bb520-44d6-4078-8086-11db1d3f2d73")
 	)
 	(wire
 		(pts
@@ -4490,6 +4516,16 @@
 			(type default)
 		)
 		(uuid "47f2906f-b531-4cfd-a338-639f3274d807")
+	)
+	(wire
+		(pts
+			(xy 266.7 107.95) (xy 266.7 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48ba848d-8996-43da-9163-47f387026afd")
 	)
 	(wire
 		(pts
@@ -5353,6 +5389,16 @@
 	)
 	(wire
 		(pts
+			(xy 278.13 107.95) (xy 266.7 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eaed7722-4a4f-47a7-9e9b-21b3a42da0eb")
+	)
+	(wire
+		(pts
 			(xy 82.55 105.41) (xy 39.37 105.41)
 		)
 		(stroke
@@ -5808,6 +5854,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 266.7 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "00a2c446-9040-4705-9312-3cf3d1b6385a")
+		(property "Reference" "#PWR023"
+			(at 266.7 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 266.7 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 266.7 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 266.7 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 266.7 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "393ae483-213e-475f-8d1d-475873ef2500")
+		)
+		(instances
+			(project "engemil_pmw3901mb"
+				(path "/4b3d6c6d-c090-43d6-aef4-73c7c564178d"
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "engemil_pmw3901mb_module_symbol_library:C0805C106K4PAC7210")
 		(at 121.92 76.2 270)
 		(unit 1)
@@ -5834,7 +5946,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "C0805"
+		(property "Footprint" "CAPC2012X110N"
 			(at 25.73 85.09 0)
 			(effects
 				(font
@@ -7257,7 +7369,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "C0805"
+		(property "Footprint" "CAPC2012X110N"
 			(at 56.21 48.26 0)
 			(effects
 				(font
@@ -8505,7 +8617,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "engemil_pmw3901mb_module_footprint_library:C0805"
+		(property "Footprint" "CAPC2012X110N"
 			(at 186.36 91.44 0)
 			(effects
 				(font
@@ -8692,7 +8804,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "engemil_pmw3901mb_module_footprint_library:C0805"
+		(property "Footprint" "CAPC2012X110N"
 			(at 122.86 91.44 0)
 			(effects
 				(font
@@ -9218,7 +9330,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "C0805"
+		(property "Footprint" "CAPC2012X110N"
 			(at 62.56 87.63 0)
 			(effects
 				(font
@@ -9462,7 +9574,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "C0805"
+		(property "Footprint" "CAPC2012X110N"
 			(at 73.99 48.26 0)
 			(effects
 				(font
